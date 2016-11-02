@@ -1,0 +1,1 @@
+We have laerned the commands ls,cd,cat, and gedit.
