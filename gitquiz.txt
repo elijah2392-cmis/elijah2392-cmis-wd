@@ -1,0 +1,8 @@
+1. Copy you need to copy your repository on to the computer that you are using by copying and pasting the cloning link into Terminal. In my case, the link for my reposiory is git clone --config="http.proxy=http://elijah2392:siloamspringsar@192.168.2.1:8080" https://github.com/elijah2392-cmis/elijah2392-cmis-wd.git 
+2. Create a new file by typing "gedit____" In the blank, put whatever you want to name the file. For example, if I wanted to name the file Elijah, then I would type "gedit Elijah".
+3. This will open gedit, the text editor. Then you should add any text you want to add. It's simple. Just type!
+4. Once you are finished, or wish to save, save by moving the mouse over 'file' and then selecting save as. Make sure that you save the file into your repository, and not the desktop. If my repository name was elijah2392-cmis-wd, then I would find elijah2392-cmis-wd, and then type the file name in the bar, and then save it.
+5. After saving it, you should add it. The command is "git add _____" Again, the blank is the file name. My example would be "git add Elijah".
+6. Then, you need to commit. The command for this is as follows:git commit -m "____" This time, the blank is where you are to comment about the changes or additons you made to the file. My example would be git commit -m "I added basic information about cats".
+7. Now, you can go back, change and edit that file, or other files if necessary.
+8. The final step is to push. The command is simple, and is the same reguardless of what the file is called. The command is git push. 
