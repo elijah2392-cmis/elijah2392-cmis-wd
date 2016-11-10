@@ -1,1 +1,18 @@
-We have laerned the commands ls,cd,cat, and gedit.
+Go into your repository
+Type 'gedit ' and then the file you want to edit or create. Copy the html template into the file if it is a new one. Then type what you want to in the title, heading, and body areas. Once you are finished, save as.
+git add
+git commit -m ""
+git push
+type in python -m SimpleHTTPServer 
+Open a new tab in your web browser and type in locahost:8000/filename
+
+
+
+
+
+First, cd your repository.
+sftp elijah2392@cmis-hsteacher
+yes if asked
+type in your password _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+cd public_html
+put ______ (The underscores are the file you wish to put in the folder.
