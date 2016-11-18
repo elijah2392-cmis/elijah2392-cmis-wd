@@ -4,13 +4,64 @@ p	{
 h1	{
 	color:Blue
 }
-body	{
-	background-color:Gold
-}
 h2	{
-	color:Red
+color:Red
 }
 footer	{
-	DarkOrange
+	color:DarkOrange
+}
+p	{
+border:10px solid red 	
+}
+h1	{
+border:3px solid blue 
+}
+h2	{
+border:17px solid black 
+}
+Footer	{
+border:7px solid white 
+}
+p	{
+font-style: bold 
+}
+h1	{
+font-size: 57%
+}
+h2	{
+text-shadow: 2px 2px #00ef00
+}
+Footer	{
+text-decoration: line-through 
+}
+h1	{
+background-color: Yellow
+}
+h2	{
+background-color: Pink
+}
+P	{
+background-color:Orange
+}
+footer	{
+background-color:Red
+}
+p	{
+direction:rtl
+}
+footer	{
+min-height:45px
+}
+footer	{
+border-color: #33eeff
+}
+p	{
+border-right-color: #ddef56
+}
+p	{
+border-left-color: #ddef56
+}
+body	{
+border-style: dotted
 }
 
