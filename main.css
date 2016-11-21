@@ -10,6 +10,8 @@ color:Red
 footer	{
 	color:DarkOrange
 }
+xtArea
+26	p	Value Error : font-st
 p	{
 border:10px solid red 	
 }
@@ -23,7 +25,7 @@ Footer	{
 border:7px solid white 
 }
 p	{
-font-style: bold 
+font-style:italic
 }
 h1	{
 font-size: 57%
@@ -64,4 +66,30 @@ border-left-color: #ddef56
 body	{
 border-style: dotted
 }
-
+p	{
+float: right
+}
+h2	{
+margin: 7px 3px 5px 9px
+}
+body	{
+border-bottom-color: yellow
+}
+p	{
+border-top-style:double 
+}
+body 	{ 
+    background: #00ff00 url("smiley.gif") no-repeat fixed center; 
+}
+p	{
+	box-shadow: 10px 10px 7px #888888
+}
+h2	{
+position: relative 
+}
+body	{
+background: linear-gradient(to right, #ff0099 0%, #88ff99 100%);
+}
+footer	{
+font-variant: small-caps
+} 
