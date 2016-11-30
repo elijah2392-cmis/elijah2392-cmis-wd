@@ -6,7 +6,7 @@ git push
 type in python -m SimpleHTTPServer 
 Open a new tab in your web browser and type in locahost:8000/filename
 
-
+Python: python -m SimpleHTTPServer
 
 
 
