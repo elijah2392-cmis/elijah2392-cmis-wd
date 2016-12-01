@@ -17,3 +17,14 @@ type in your password _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 cd public_html
 put ______ (The underscores are the file you wish to put in the folder.
 http://cmis-hsteacher/~elijah2392/index.html
+
+
+
+
+Links for lists and links:
+http://www.w3schools.com/html/html_lists.asp
+http://www.w3schools.com/html/html_links.asp
+http://www.w3schools.com/css/css_boxmodel.asp
+http://www.w3schools.com/cssref/css_selectors.asp
+
+
