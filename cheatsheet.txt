@@ -28,3 +28,52 @@ http://www.w3schools.com/css/css_boxmodel.asp
 http://www.w3schools.com/cssref/css_selectors.asp
 
 
+hyperlink:<a href="http://cmis-hsteacher/~elijah2392/listsandlinks.html">Lists and Links</a>
+
+
+Helpful html:
+<!doctype html>
+<html>
+	<head>
+		<title>Title Text</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="main.css" type="text/css">
+	</head>
+	<body>
+		<header>
+			<h1>
+				
+			</h1>
+		</header>
+		<nav>
+			
+		</nav>
+		<main>
+			<h2>
+				
+			</h2>
+			<p>
+				
+			</p>
+		</main>
+		<footer>
+			
+		</footer>
+	</body>
+</html> 
+
+Ordered list:
+<ol>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+</ol>
+
+
+
+
+<a href="http://cmis-hsteacher/~elijah2392/index.html">Home</a> 
+
+
