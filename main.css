@@ -1,54 +1,114 @@
+/* Create a new file called "main.css"*
+Add a link element to the head of your index.html file*
+<link rel="stylesheet" href="main.css" type="text/css">*
+Edit the main.css file*
+add a declaration for each element in the body of your index.html file.*
+add properties to style the background color of each element.*
+add properties to style the border of each element.*
+add properties to style the font and text of each element.*
+Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.*
+Use at least 4 different units to set sizes of various aspects of your webpage.*
+Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.*
+View your index.html in the development server.*
+Validate your index.html file.*
+Validate your main.css file.*
+Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.*
+Upload to the production server with sftp.*
+View your index.html in the production server.* */
+
+/* I learned from Joyce how to do a linear gradient in the background and Bill showed me how to do box shadows.*/
 
 p	{
-	color:White
+	color:DarkOliveGreen
 }
 h1	{
-	color:Yellow
-}
-h1	{
-	background-color:Blue
+	color:Blue
 }
 h2	{
-color:Black
+color:Red
 }
 footer	{
-	color:White
+	color:DarkOrange
+}
+p	{
+border:10px solid red 	
 }
 h1	{
-font-size: 300%
+border:3px solid blue 
 }
-nav	{
+h2	{
+border:17px solid black 
+}
+Footer	{
+border:7px solid white 
+}
+p	{
+font-style:italic
+}
+h1	{
+font-size: 57%
+}
+h2	{
+text-shadow: 2px 2px #00ef00
+}
+Footer	{
 text-decoration: line-through 
 }
-main	{
-background-color:White
+h1	{
+background-color: Yellow
+}
+h2	{
+background-color: Pink
+}
+P	{
+background-color:Orange
 }
 footer	{
-background-color:Blue
+background-color:Red
+}
+p	{
+direction:rtl
+}
+footer	{
+min-height:45px
+}
+footer	{
+border-color: #33eeff
+}
+p	{
+border-right-color: #ddef56
+}
+p	{
+border-left-color: #ddef56
+}
+body	{
+border-style: dotted
+}
+p	{
+float: right
+}
+h2	{
+margin: 7px 3px 5px 9px
+}
+body	{
+border-bottom-color: yellow
+}
+p	{
+border-top-style:double 
 }
 body 	{ 
-    background-color:red 
+    background: #00ff00 url("smiley.gif") no-repeat fixed center; 
+}
+p	{
+	box-shadow: 10px 10cm 7in #888888
 }
 h2	{
 position: relative 
 }
-nav	{
-color:Yellow
+body	{
+background: linear-gradient(to right, #ff0099 0%, #88ff99 100%);
 }
-nav	{
-text-decoration:underline
-}
-main	{
-background-color: White
-}
-h2:	{
-border-style:solid
-}
-h2:	{
- border-right-color:Green 
-}
-p.foo	{
-color:black
-}
-
+footer	{
+font-variant: small-caps
+} 
 
