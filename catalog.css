@@ -8,7 +8,7 @@ p	{
 h1	{
 	color:#315721
 }
-h1	{
+h1,footer	{
 	background-color:#48f100
 }
 h2	{
@@ -22,12 +22,6 @@ font-size: 300%
 }
 nav	{
 border-style: dotted
-}
-main	{
-background-color:
-}
-footer	{
-background-color:#48f100
 }
 body 	{ 
     background-color:#315721 
@@ -44,13 +38,22 @@ text-decoration:underline
 main	{
 background-color: #748f16
 }
-h2:	{
+h2	{
 border-style:solid
 }
-h2:	{
+h2	{
  border-right-color:Green 
 }
 img	{
-
+opacity:0.75
 }
-
+ol	{
+padding:0.25cm 0.25cm 0.25cm 0.25cm;
+margin:0.5cm 0.5cm 0.5cm 0.5cm
+}
+article		{
+border-style:solid
+}
+header p	{
+color:yellow
+}
